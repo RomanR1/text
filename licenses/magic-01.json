@@ -3,7 +3,7 @@
   "subject": "owner",
   "role": "owner",
   "validFrom": "2025-11-07T22:59:00.025Z",
-  "validTo": "2025-11-08T02:30:00+03:00",
+  "validTo": "2025-11-08T02:50:00+03:00",
   "constraints": {
     "appId": "Magic"
   },
