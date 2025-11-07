@@ -2,11 +2,11 @@
   "licenseId": "magic-01",
   "subject": "owner",
   "role": "owner",
-  "validFrom": "2025-11-07T22:03:11.604Z",
-  "validTo": "2025-11-07T22:10:00Z ",
+  "validFrom": "2025-11-07T22:39:25.895Z",
+  "validTo": "2025-11-07T23:59:59",
   "constraints": {
     "appId": "Magic"
   },
-  "issuedAt": "2025-11-07T22:03:11.604Z",
+  "issuedAt": "2025-11-07T22:39:25.895Z",
   "issuer": "local-issuer"
 }
