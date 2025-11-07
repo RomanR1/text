@@ -1,0 +1,12 @@
+{
+  "licenseId": "magic-01",
+  "subject": "Magic",
+  "role": "owner",
+  "validFrom": "2025-11-07T20:38:19.098Z",
+  "validTo": null,
+  "constraints": {
+    "appId": "Magic"
+  },
+  "issuedAt": "2025-11-07T20:38:19.098Z",
+  "issuer": "local-issuer"
+}
