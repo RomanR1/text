@@ -1,0 +1,12 @@
+{
+  "licenseId": "verum-01",
+  "subject": "subject",
+  "role": "owner",
+  "validFrom": "2025-11-08T13:39:57.053Z",
+  "validTo": "2026-03-01T00:00:00+03:00",
+  "constraints": {
+    "appId": "Verum"
+  },
+  "issuedAt": "2025-11-08T13:39:57.053Z",
+  "issuer": "local-issuer"
+}
